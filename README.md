@@ -4,5 +4,5 @@
 
 # 各ファイルの在処について
  - AtCoder: AtCoderの過去問コード
- - Algorithm Book: 蟻本のコード
+ - AlgorithmBook: 蟻本のコード
  - その他: 今後追加するかも（現時点では何もない。）
